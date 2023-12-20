@@ -1,0 +1,14 @@
+[
+{
+	"uutis_id":"1",
+	"otsikko":"Palvelukatko 24.-25.12.2022",
+	"teksti":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non nibh nec augue dictum posuere a vitae massa. Duis varius purus sit amet neque consectetur, et dapibus ligula lacinia. Sed cursus feugiat urna eu aliquam. Sed feugiat risus ac nibh eleifend imperdiet. Suspendisse ac nunc sed dolor iaculis imperdiet quis quis arcu.",
+	"pvm":"2022-12-18"
+},
+{
+	"uutis_id":"2",
+	"otsikko":"Black Friday -tarjoukset",
+	"teksti":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non nibh nec augue dictum posuere a vitae massa. Duis varius purus sit amet neque consectetur, et dapibus ligula lacinia. Sed cursus feugiat urna eu aliquam. Sed feugiat risus ac nibh eleifend imperdiet. Suspendisse ac nunc sed dolor iaculis imperdiet quis quis arcu.",
+	"pvm":"2022-11-20"
+}
+]

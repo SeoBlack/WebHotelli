@@ -1,0 +1,32 @@
+[
+{
+	"kategoria_id":"1",
+	"nimi":"Verkkotunnukset",
+	"jarjestysnro":"2"
+},
+{
+	"kategoria_id":"2",
+	"nimi":"Webhotellit",
+	"jarjestysnro":"1"
+},
+{
+	"kategoria_id":"3",
+	"nimi":"Kotisivukone",
+	"jarjestysnro":"4"
+},
+{
+	"kategoria_id":"4",
+	"nimi":"Virtuaalipalvelimet",
+	"jarjestysnro":"3"
+},
+{
+	"kategoria_id":"5",
+	"nimi":"Sähköposti",
+	"jarjestysnro":"5"
+},
+{
+	"kategoria_id":"6",
+	"nimi":"Oma tili",
+	"jarjestysnro":"6"
+}
+]
